@@ -1,0 +1,8 @@
+/var/log/miteThru.log {
+        monthly
+        size 10M
+        rotate 12
+        missingok
+        notifempty
+        create 644 root root
+}
