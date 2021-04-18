@@ -36,22 +36,22 @@ The miteThru places on the registered view :
 - A counting area (in green)
 - A border  (in red)
 
-<img align="right" src=images/MT_Pple_Image1.svg>
+<img align="left" src=images/MT_Pple_Image1.svg>
 
 **Step 1** : If a mite enters the tracking area, it is "seen" by the software, but has no visible identifier.
 
-<img align="left" src=images/MT_Pple_Image2.svg>
+<img align="right" src=images/MT_Pple_Image2.svg>
 
 **Step 2**  : If the mite fits into the referencing area, it is assigned an ID and its area is materialized by a colored disk that is superimposed on the image. The color of the disk indicates how the mite is classified according to its size.
 
 The size of the mite is updated with each image taken by the miteThru.
 
-![MT Principle image 3](images/MT_Pple_Image3.svg){: style="float: left"}
+<img align="left" src=images/MT_Pple_Image3.svg>
 
 **Step 3** : If the mite enters the counting area from the outside and leaves from the inside, the "IN" counter associated with its mite category is incremented.
 If the mite enters the counting area from the inside and leaves from the outside, the "OUT" counter associated with its mite category is incremented.
 
-![MT Principle image 4](images/MT_Pple_Image4.svg){: style="float: left"}
+<img align="right" src=images/MT_Pple_Image4.svg>
 
 **Step 4** : If the mite leaves the referencing area, it loses its identifier.
 
