@@ -35,16 +35,18 @@ The miteThru places on the registered view :
 - A referencing zone (in dark gray)
 - A counting area (in green)
 - A border  (in red)
-
+<td>
 <img align="left" src=images/MT_Pple_Image1.svg>
 
 **Step 1** : If a mite enters the tracking area, it is "seen" by the software, but has no visible identifier.
-
+</td>
+<td>
 <img align="right" src=images/MT_Pple_Image2.svg>
 
 **Step 2**  : If the mite fits into the referencing area, it is assigned an ID and its area is materialized by a colored disk that is superimposed on the image. The color of the disk indicates how the mite is classified according to its size.
 
 The size of the mite is updated with each image taken by the miteThru.
+</td>
 
 <img align="left" src=images/MT_Pple_Image3.svg>
 
