@@ -38,7 +38,7 @@ The miteThru places on the registered view :
 
 <table>
 	<tr>
-		<td> <img  width="400" src=images/MT_Pple_Image1.svg> </td>
+		<td> <img  src=images/MT_Pple_Image1.svg width="273" height="244"> </td>
 		<td>**Step 1** : If a mite enters the tracking area, it is "seen" by the software, but has no visible identifier.</td>
 	</tr>
 	<tr>
