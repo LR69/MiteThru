@@ -137,7 +137,7 @@ The web interface shows the temporal evolution of the Mites counted since the be
 
 At the bottom of the tab, data of the experiment can be downloaded at `.csv` format by clicking on 
 
-![Download Data](images/Download_Button.png)
+<img aling="center" src="images/Download_Button.png">
 
 
 
