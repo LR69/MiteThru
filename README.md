@@ -1,11 +1,11 @@
 # MiteThru
 MiteThru is a raspberry based system used to count red mites going to/from a hen. 
 
-It can count one mite,
+It can count [one mite](https://www.youtube.com/watch?v=HM9iWV7Sr2Q),
 
 [![VIDEO1](https://img.youtube.com/vi/HM9iWV7Sr2Q/0.jpg)](https://www.youtube.com/watch?v=HM9iWV7Sr2Q)
 
-Or, many mites at the same time 
+Or, [many mites](https://www.youtube.com/watch?v=uRkvY6X4qfg) at the same time 
 
 [![VIDEO2](https://img.youtube.com/vi/uRkvY6X4qfg/0.jpg)](https://www.youtube.com/watch?v=uRkvY6X4qfg)
 
