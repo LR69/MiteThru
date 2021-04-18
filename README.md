@@ -2,13 +2,12 @@
 MiteThru is a raspberry based system used to count red mites going to/from a hen. 
 
 It can count one mite,
-[![VIDEO1](https://img.youtube.com/vi/HM9iWV7Sr2Q/0.jpg)](https://www.youtube.com/watch?v=HM9iWV7Sr2Q)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HM9iWV7Sr2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![VIDEO1](https://img.youtube.com/vi/HM9iWV7Sr2Q/0.jpg)](https://www.youtube.com/watch?v=HM9iWV7Sr2Q)
 
 Or, many mites at the same time 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uRkvY6X4qfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![VIDEO2](https://img.youtube.com/vi/uRkvY6X4qfg/0.jpg)](https://www.youtube.com/watch?v=uRkvY6X4qfg)
 
 This MiteThru system uses :
 
