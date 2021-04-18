@@ -40,7 +40,7 @@ The miteThru places on the registered view :
 
 **Step 1** : If a mite enters the tracking area, it is "seen" by the software, but has no visible identifier.
 
-![MT Principle image 2](images/MT_Pple_Image2.svg){: style="float: left"}
+<img align="left" src=images/MT_Pple_Image2.svg>
 
 **Step 2**  : If the mite fits into the referencing area, it is assigned an ID and its area is materialized by a colored disk that is superimposed on the image. The color of the disk indicates how the mite is classified according to its size.
 
