@@ -36,7 +36,7 @@ The miteThru places on the registered view :
 - A counting area (in green)
 - A border  (in red)
 
-![MT Principle image 1](images/MT_Pple_Image1.svg){: style="float: left"}
+<img align="right" src=images/MT_Pple_Image1.svg>
 
 **Step 1** : If a mite enters the tracking area, it is "seen" by the software, but has no visible identifier.
 
