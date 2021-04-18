@@ -39,14 +39,14 @@ The miteThru places on the registered view :
 <table>
 	<tr>
 		<td> <img  src=images/MT_Pple_Image1.svg width="273" height="244"> </td>
-		<td>**Step 1** : If a mite enters the tracking area, it is "seen" by the software, but has no visible identifier.</td>
+		<td>Step 1 : If a mite enters the tracking area, it is "seen" by the software, but has no visible identifier.</td>
 	</tr>
 	<tr>
-		<td><img align="right" src=images/MT_Pple_Image2.svg> </td>
-		<td> **Step 2**  : If the mite fits into the referencing area, it is assigned an ID and its area is materialized by a colored disk that is superimposed on the image. The color of the disk indicates how the mite is classified according to its size. 
+		<td><img src=images/MT_Pple_Image2.svg> </td>
+		<td> Step 2 : If the mite fits into the referencing area, it is assigned an ID and its area is materialized by a colored disk that is superimposed on the image. The color of the disk indicates how the mite is classified according to its size. 
 
 The size of the mite is updated with each image taken by the miteThru. </td>
-	</t>
+	</tr>
 </table>
 <img align="left" src=images/MT_Pple_Image3.svg>
 
