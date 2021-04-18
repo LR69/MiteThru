@@ -54,7 +54,7 @@ If the mite enters the counting area from the inside and leaves from the outside
 		</td>
 	</tr>
 	<tr>
-		<td><img align="right" src=images/MT_Pple_Image4.svg></td>
+		<td><img src=images/MT_Pple_Image4.svg></td>
 		<td> Step 4: If the mite leaves the referencing area, it loses its identifier.
 The identifiers are incremented as the mites enter the referencing area. 
 The identifier can range from 0 to 99999. If a 100000th mite is tracked, its identifier returns to zero.</td>
