@@ -42,23 +42,29 @@ The miteThru places on the registered view :
 		<td>Step 1 : If a mite enters the tracking area, it is "seen" by the software, but has no visible identifier.</td>
 	</tr>
 	<tr>
+		<td><img src=images/MT_Pple_Image2.svg> </td>
 		<td> Step 2 : If the mite fits into the referencing area, it is assigned an ID and its area is materialized by a colored disk that is superimposed on the image. The color of the disk indicates how the mite is classified according to its size. 
 
 The size of the mite is updated with each image taken by the miteThru. </td>
-		<td><img src=images/MT_Pple_Image2.svg> </td>
 	</tr>
-</table>
-<img align="left" src=images/MT_Pple_Image3.svg>
-
-**Step 3** : If the mite enters the counting area from the outside and leaves from the inside, the "IN" counter associated with its mite category is incremented.
+	<tr>
+		<td><img src=images/MT_Pple_Image3.svg> </td>
+		<td>Step 3: If the mite enters the counting area from the outside and leaves from the inside, the "IN" counter associated with its mite category is incremented.
 If the mite enters the counting area from the inside and leaves from the outside, the "OUT" counter associated with its mite category is incremented.
-
-<img align="right" src=images/MT_Pple_Image4.svg>
-
-**Step 4** : If the mite leaves the referencing area, it loses its identifier.
-
+		</td>
+	</tr>
+	<tr>
+		<td><img align="right" src=images/MT_Pple_Image4.svg></td>
+		<td> Step 4: If the mite leaves the referencing area, it loses its identifier.
 The identifiers are incremented as the mites enter the referencing area. 
-The identifier can range from 0 to 99999. If a 100000th mite is tracked, its identifier returns to zero.
+The identifier can range from 0 to 99999. If a 100000th mite is tracked, its identifier returns to zero.</td>
+	</tr>
+	
+</table>
+
+
+
+
 
 
 
