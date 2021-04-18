@@ -157,5 +157,5 @@ On this page, two images are continuously updated by the program.
 1. The first image is the raw image take by the camera,
     ![image_brute](images/image_brute_2020_02_03_00h07m11s.563858.jpg)
 2. On the second image, elements related to image processing have been added.
-   ![](/home/lr/MiteThru/images/image_traitee_2020_02_03_00h07m11s.563858.jpg)
+   ![imag_traitée](images/image_traitee_2020_02_03_00h07m11s.563858.jpg)
 
