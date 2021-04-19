@@ -17,7 +17,7 @@ This MiteThru system uses :
 - an electronic board with some push buttons, colored led and power devices to control the system,
 - some Lego parts for a quick assembly.
 
-The complete list of required components is available in the [Bill Of Materials](Bill_Of_Material.ods)
+The complete list of required components is available in the [Bill Of Materials](https://github.com/LR69/MiteThru/blob/master/Bill_Of_Material.ods)
 
 
 
