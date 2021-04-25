@@ -1,4 +1,6 @@
 # MiteThru
+MiteThru is part of a biggest project named **InfoChemPred**. If you are interested in that project, you should have a look to the ["Literature cited in  InfoChemPred"](InfoChemPred_B1_LRoy_citedreferences.pdf).
+
 MiteThru is a raspberry based system used to count red mites going to/from a hen. 
 
 It can count [one mite](https://www.youtube.com/watch?v=HM9iWV7Sr2Q),
